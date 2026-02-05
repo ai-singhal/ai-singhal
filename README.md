@@ -32,6 +32,6 @@
 
 **currently building**
 
-- [**GPUnity**](https://www.gpunity.dev/): gpu decision engine that recommends, provisions, and manages hardware tailored to your codebase
+- [**GPUnity**](https://www.gpunity.dev/): gpu decision engine that delivers reliable hardware solutions tailored to your codebase
 
 <br/>
