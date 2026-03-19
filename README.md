@@ -43,6 +43,6 @@
 
 **currently building**
 
-- [**GPUnity**](https://www.gpunity.dev/): gpu decision engine that delivers reliable hardware solutions tailored to your codebase
+- [**GPUnity**](https://www.gpunity.dev/): profiles your training code on real GPUs, identifies what's wasting your money, fixes it, and proves the fix didn't break anything.
 
 <br/>
