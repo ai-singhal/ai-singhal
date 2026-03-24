@@ -35,7 +35,7 @@
   </a>
 </p>
 
-
+---
 
 </div>
 
@@ -43,6 +43,5 @@
 
 **currently building**
 
-- [**GPUnity**](https://www.gpunity.dev/): profiles your training code on real GPUs, identifies what's wasting your money, fixes it, and proves the fix didn't break anything.
-
+- [**GPUnity**](https://www.gpunity.dev/): profiles your training code on real GPUs, identifies what's wasting your money, and fixes it.
 <br/>
