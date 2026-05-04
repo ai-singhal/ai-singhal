@@ -43,5 +43,5 @@
 
 **currently building**
 
-- [**Profine**](https://profine.ai/): profiles your training code on real GPUs, identifies what's wasting your money, and fixes it.
+- [**Profine**](https://profine.ai/): profiles your training code on real GPUs, identifies bottlenecks, and fixes it.
 <br/>
