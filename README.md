@@ -43,6 +43,5 @@
 
 **currently building**
 
-- [**GPUnity**](https://www.gpunity.dev/): profiles your training code on real GPUs, identifies what's wasting your money, and fixes it.
-- [**Better Bookmarks**](https://github.com/ai-singhal/better-bookmarks): the AI chrome native bookmark manager for people who save everything and find nothing.
+- [**Profine**](https://profine.ai/): profiles your training code on real GPUs, identifies what's wasting your money, and fixes it.
 <br/>
