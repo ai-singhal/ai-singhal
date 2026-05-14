@@ -42,7 +42,7 @@
     />
   </a>
   &nbsp;
-  <a href="mailto:devs@profine.ai">
+  <a href="mailto:aryan@profine.ai">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       height="34"
