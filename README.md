@@ -42,6 +42,13 @@
     />
   </a>
   &nbsp;
+  <a href="https://scholar.google.com/citations?user=QJn7KLkAAAAJ&hl=en">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+    height="34"
+  />
+</a>
+  &nbsp;
   <a href="mailto:aryan@profine.ai">
     <img
       src="https://skillicons.dev/icons?i=gmail"
