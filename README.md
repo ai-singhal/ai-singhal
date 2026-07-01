@@ -62,4 +62,5 @@
 
 **currently building**
 
+- [**Mirrors**](https://runmirrors.com/): rebuilds a deterministic, runnable copy of your agent's production environment from its traces so that you can catch regressions before prod.
 - [**Profine**](https://profine.ai/): profiles your training code on real GPUs, identifies bottlenecks, and fixes it.
