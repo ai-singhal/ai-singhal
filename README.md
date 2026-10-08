@@ -57,9 +57,3 @@
   </a>
 </p>
 ---
-
-</div>
-
-**currently building**
-
-- [**Mirrors**](https://runmirrors.com/): rebuilds a deterministic, runnable copy of your agent's production environment from its traces so that you can catch regressions before prod.
